@@ -1,0 +1,22 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "Test project for learning how to use git, terminal, ubuntu and other stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "Go!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TominVadim/hexlet-js-.git"
+  },
+  "keywords": [
+    "hexlet"
+  ],
+  "author": "TominVadim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TominVadim/hexlet-js-/issues"
+  },
+  "homepage": "https://github.com/TominVadim/hexlet-js-#readme"
+}
