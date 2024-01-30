@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Test project for learning how to use git, terminal, ubuntu and other stuff",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "Go!"
   },
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/TominVadim/hexlet-js-/issues"
   },
-  "homepage": "https://github.com/TominVadim/hexlet-js-#readme"
+  "homepage": "https://github.com/TominVadim/hexlet-js-#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
